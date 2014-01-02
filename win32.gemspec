@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
   s.description = "An ugly stub to allow testing of Windows functions on *NIX"
   s.authors     = ["James Fryman"]
   s.email       = 'james@frymanet.com'
-  s.files       = ["resolv.rb"]
+  s.files       = ["lib/win32/resolv.rb"]
   s.license     = 'MIT'
 end
